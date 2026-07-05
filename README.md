@@ -1,4 +1,4 @@
-# Temporal Triangle Counting on Historical Graphs
+# Triangle Counting in Large Historical Graphs
 
 This repository contains the codebase used in my diploma thesis on triangle counting in historical graphs.
 The project was initially cloned from the public repository `TariqAbughofa/incremental_distributed_wcc`,
